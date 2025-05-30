@@ -41,7 +41,7 @@ The derived math was implemented in Python using NumPy:
 
 ---
 
-## 🚀 Project Goals
+## Project Goals
 
 - Build a working deep neural network without libraries
 - Understand every component of training and optimization
@@ -49,7 +49,7 @@ The derived math was implemented in Python using NumPy:
 
 ---
 
-## 📁 Files
+## Files
 
 - `mnist_nn_from_scratch.ipynb` – Full training and testing code
 - `NN_Math_Scratch.pdf` – Complete mathematical derivation and explanation of the model
