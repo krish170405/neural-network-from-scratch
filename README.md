@@ -2,13 +2,13 @@
 
 This project implements a deep neural network **entirely from scratch** using **NumPy and raw mathematical derivations**. The goal was to understand and build every component of a feedforward neural network — from the math to the code — without relying on any machine learning libraries.
 
-## 🧠 Mathematical Foundation
+##  Mathematical Foundation
 
 The neural network architecture and learning process were modeled from first principles using linear algebra and multivariable calculus.
 
 All mathematical derivations are included in the accompanying PDF: **`NN_Math_Scratch.pdf`**.
 
-### 🔢 Topics Covered in the Math Notes:
+###  Topics Covered in the Math Notes:
 
 - **Modeling the network mathematically**:
   - Layers, neurons, weights, and biases using matrix/vector notation
