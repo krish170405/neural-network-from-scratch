@@ -51,5 +51,5 @@ The derived math was implemented in Python using NumPy:
 
 ## Files
 
-- `mnist_nn_from_scratch.ipynb` – Full training and testing code
+- `MNIST_NN_Scratch.ipynb` – Full training and testing code
 - `NN_Math_Scratch.pdf` – Complete mathematical derivation and explanation of the model
