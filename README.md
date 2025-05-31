@@ -1,6 +1,6 @@
 # Neural Network from Scratch (NumPy + Math Derivation)
 
-This project implements a deep neural network **entirely from scratch** using **NumPy and raw mathematical derivations**. The goal was to understand and build every component of a feedforward neural network — from the math to the code — without relying on any machine learning libraries.
+This project implements a deep neural network **entirely from scratch** using **NumPy and raw mathematical derivations**. The goal was to build every component of a feedforward neural network without using any machine learning libraries.
 
 ##  Mathematical Foundation
 
